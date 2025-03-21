@@ -1,6 +1,3 @@
-//Assessment 5 
-//Helitha Cooray 
-//Student No: 24161798
 
 #include <stdio.h>
 #include <ncurses.h>
